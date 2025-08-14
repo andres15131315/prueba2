@@ -37,7 +37,7 @@ main {
 /* Gato encima */
 .cat-front {
   position: absolute;
-  top: 25%; /* Ajusta para que abrace */
+  top: 39%; /* Ajusta para que abrace */
   left: 50%;
   transform: translate(-50%, -50%);
   width: 300px;
